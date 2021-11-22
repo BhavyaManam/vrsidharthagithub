@@ -15,3 +15,18 @@ This repository contains git and github files
 ***both bold and italic type of font styles***
 
 [Google](www.google.com)
+
+![Tajmahal](https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg)
+
+* Fruits
+  * Mangoes
+  * Apples
+  * Bananas
+ 1. Vegatables
+    1. Tomatoes
+    2. Carrots
+    3. Onions
+
+Table 1 | Table 2
+---------|---------
+NAME|Roll no
